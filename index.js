@@ -14,7 +14,7 @@ const resumeData1 = {
     name: 'Anil Yadav',
     profession: 'Software Engineer',
     email: 'rebelanil885@gmail.com',
-    phone: '(123) 456-7890',
+    phone: '988637-7890',
     summary: 'Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.',
     experience: [{
             title: 'Senior Software Engineer',
